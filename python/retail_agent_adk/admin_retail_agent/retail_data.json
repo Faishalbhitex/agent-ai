@@ -1,0 +1,971 @@
+{
+  "produk isi ulang": [
+    {
+      "nama produk": "gas lpg 3kg",
+      "harga encer": "28.000"
+    },
+    {
+      "nama produk": "isi ulang galon",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "isi ulang mineral",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "bensin 1l",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "gas lpg 5kg",
+      "harga encer": "130.000"
+    },
+    {
+      "nama produk": "gas lpg 12kg",
+      "harga encer": "240.000"
+    }
+  ],
+  "jenis rokok": [
+    {
+      "nama produk": "dte filter",
+      "harga encer": "15.000"
+    },
+    {
+      "nama produk": "ga bold",
+      "harga encer": "17.000"
+    },
+    {
+      "nama produk": "gudang garam merah",
+      "harga encer": "20.000"
+    },
+    {
+      "nama produk": "dji sam soe",
+      "harga encer": "27.000"
+    },
+    {
+      "nama produk": "country",
+      "harga encer": "28.000"
+    },
+    {
+      "nama produk": "pensil putih",
+      "harga encer": "29.000"
+    },
+    {
+      "nama produk": "pensil coklat",
+      "harga encer": "29.000"
+    },
+    {
+      "nama produk": "class mild",
+      "harga encer": "29.000"
+    },
+    {
+      "nama produk": "surya 12",
+      "harga encer": "26.000"
+    },
+    {
+      "nama produk": "la ice",
+      "harga encer": "35.000"
+    },
+    {
+      "nama produk": "surya 16",
+      "harga encer": "36.000"
+    },
+    {
+      "nama produk": "la bold",
+      "harga encer": "38.000"
+    },
+    {
+      "nama produk": "sampoerna mild",
+      "harga encer": "35.000"
+    },
+    {
+      "nama produk": "marlboro black",
+      "harga encer": "40.000"
+    },
+    {
+      "nama produk": "marlin bold",
+      "harga encer": "14.000"
+    }
+  ],
+  "produk minuman siap minum": [
+    {
+      "nama produk": "teh gelas 160ml",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "ale-ale strwb 180mi",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "okay jelly 145ml",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "teh gelas big 250ml",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "teh kotak 300ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "ultra milk 250ml",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "ultra milk 200ml",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "milo kaleng 220ml",
+      "harga encer": "12.000"
+    },
+    {
+      "nama produk": "larutan kaleng",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "cincau selasih",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "pocari sweet 500ml",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "you c1000 500ml",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "you c1000 140ml",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "sprite 390ml",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "golda 200ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "bear brand 189ml",
+      "harga encer": "12.000"
+    },
+    {
+      "nama produk": "teh pucuk 240ml",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "krating daeng 150ml",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "fanta 250ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "sprite 250ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "kopiko78 240ml",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "le mineral 330ml",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "le mineral 600ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "le mineral 1,5l",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "aqua 1.5l",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "larutan penyegar 500ml",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "okky jelly big",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "kacang hijau 250ml",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "buavita 245ml",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "indomilk colt 115ml",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "indomilk street 115ml",
+      "harga encer": "3.000"
+    }
+  ],
+  "produk minuman racikan": [
+    {
+      "nama produk": "marimas 6g",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "barista special blend 25g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "pop ice cappucino flavor 23g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "pop ice es doger flavor 23g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "pop ice melon flavor 23g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "energen cokelat 34g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "energen vanilla 34g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "energen kacang hijau 30g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "luwak white koffe 20g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "milo 34g",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "abc kopi mocca 27g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "good day cappucino 25g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "tora bika cappucino 25g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "tora bika jahe susu 20g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "indocafe coffemix 20g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "teh sari wangi 46.25g",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "teh gunung sarrus 50g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "teh sari wangi 92.5g",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "marjan melon 460ml",
+      "harga encer": "22.000"
+    },
+    {
+      "nama produk": "kapal api 25g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "kapal api special 30g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "kapal api special 160g",
+      "harga encer": "17.000"
+    },
+    {
+      "nama produk": "kapal api 380g",
+      "harga encer": "25.000"
+    },
+    {
+      "nama produk": "kuku bima 4.5g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "extra joss 4g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "maxtea tarik 25g",
+      "harga encer": "2.500"
+    }
+  ],
+  "produk makanan": [
+    {
+      "nama produk": "mie sedap goreng",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "mie sedaap soto",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "mie sedaap kari spesial",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "indomie goreng",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "indomie kari ayam",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "indomie coto makassar",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "indomie kaldu ayam",
+      "harga encer": "3.500"
+    },
+    {
+      "nama produk": "mie sedaap salero padang",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "indomie goreng rica-rica",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "indomie soto lamongan",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "sarimi isi 2 goreng ayam kremes",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "pop mie pangsit jontor",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "pop mie pedes gledek",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "pop mie soto ayam",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "mie sedaap cup soto",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "asahi sarden saus tomat",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "bantan sarden saus tomat",
+      "harga encer": "21.000"
+    },
+    {
+      "nama produk": "abc sardines saus cabai",
+      "harga encer": "26.000"
+    },
+    {
+      "nama produk": "suun/shoun sagu 150g",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "bihun jagung 300g",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "ekomie 550g",
+      "harga encer": "13.000"
+    }
+  ],
+  "produk snack dan bisquit": [
+    {
+      "nama produk": "mentos fruit",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "fruzz chewy candy",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "relaxa barley mint flavor",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "kopiko extra besar",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "sosis so nice rasa ayam",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "sosis so nice rasa sapi",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "gery cokelat pasta",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "chocolatos cheese flavor",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "chocolatos chocolate flavor",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "top chocolate",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "superstar triple chocolate 16g",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "beng-beng 25g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "apollo pandan 18g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "oreo 27.6g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "tictac ori",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "tic tac ayam bawang",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "piattos kentang sapi panggang",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "hatari chocolate milk 190g",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "gery malkist sweet cheese 100g",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "roma bisquit kelapa 300g",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "serena milk short cake 225g",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "crispy crackers 225g",
+      "harga encer": "14.000"
+    },
+    {
+      "nama produk": "crunchy potato bee",
+      "harga encer": "2.500"
+    }
+  ],
+  "produk kebutuhan dapur": [
+    {
+      "nama produk": "racik bumbu tempe goreng 20g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "racik bumbu ayam goreng 20g",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "asama jawa/madura",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "garam jempol 250g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "masako rasa ayam 8.5g",
+      "harga encer": "500"
+    },
+    {
+      "nama produk": "masako rasa sapi 8.5g",
+      "harga encer": "500"
+    },
+    {
+      "nama produk": "ladaku merica bubuk 3g",
+      "harga encer": "1.500"
+    },
+    {
+      "nama produk": "desaku bumbu balado 12.5g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "tepung agar-agar king of fibre 7g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "tepung agar-agar rumput laut 7g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "nutrijell rasa melon 15g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "racik bumbu spesial rendang 50g",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "racik bumbu spesial opor ayam 45g",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "meses ceres safari cokelat 15g",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "micin sasa 50g",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "micin sasa 100g",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "micin sasa 250g",
+      "harga encer": "15.000"
+    },
+    {
+      "nama produk": "masako rasa ayam 100g",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "abc terasi udang 3.8g",
+      "harga encer": "1.000"
+    },
+    {
+      "nama produk": "amanda margarin serbaguna 200g",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "kobe supercrispy kentucky 70g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "kobe bakwan kress bakwan jagung 70g",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "blue band 200g",
+      "harga encer": "14.000"
+    },
+    {
+      "nama produk": "bete pewarna pangan merah 7g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "boncabe level 50 max 3g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "cap enaak 370g",
+      "harga encer": "14.000"
+    },
+    {
+      "nama produk": "filma minyak goreng 2l",
+      "harga encer": "38.000"
+    },
+    {
+      "nama produk": "sovia minyak goreng 1l",
+      "harga encer": "19.000"
+    },
+    {
+      "nama produk": "telur",
+      "harga encer": "2.500"
+    },
+    {
+      "nama produk": "gula plastik 1/2 kg",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "gula plastik 1 kg",
+      "harga encer": "20.000"
+    },
+    {
+      "nama produk": "gula rose brand 1kg",
+      "harga encer": "20.000"
+    },
+    {
+      "nama produk": "tepung ketan putih 500g",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "tepung kanji/tapioka 500g",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "tepung terigu segitiga biru 1kg",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "minyak tropical 1l",
+      "harga encer": "25.000"
+    },
+    {
+      "nama produk": "santan kara/sun kara 65ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "beras larrist 5 kg",
+      "harga encer": "80.000"
+    },
+    {
+      "nama produk": "beras sphp 5kg",
+      "harga encer": "80.000"
+    },
+    {
+      "nama produk": "cuka dapur dua belibis 150ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "sambal pedas dahsyat indofood 135ml",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "saus cabe dua belibis 135ml",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "kecap manis sedaap 135ml",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "kecap manis abc 375ml",
+      "harga encer": "20.000"
+    },
+    {
+      "nama produk": "kecap asin abc 133ml",
+      "harga encer": "6.000"
+    }
+  ],
+  "produk rumah tangga": [
+    {
+      "nama produk": "alat pencuci kain lyda",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "alat pencuci safari anti karat",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "sabuk tangan marlin glave",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "ketembat cotton t100",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "pantyliners laurier isi 20",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "pembalut charm non wing 23cm 8 pads",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "pembalut charm wing 23cm 7 pads",
+      "harga encer": "8.000"
+    },
+    {
+      "nama produk": "pembalut charm non wing 26cm 8 pads",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "vixal kamar mandi 600ml",
+      "harga encer": "17.000"
+    },
+    {
+      "nama produk": "hit anti nyamuk 600ml",
+      "harga encer": "40.000"
+    },
+    {
+      "nama produk": "tali tambang larrist",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "sikat plastik",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "deterjen bubuk attack jaz1 45g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen bubuk rinso 40g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen bubuk daia softener 46g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen bubuk daia clean & fresh 46g",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen bubuk boom 300g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "deterjen bubuk rinso 195g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "deterjen bubuk mori 700g",
+      "harga encer": "12.000"
+    },
+    {
+      "nama produk": "deterjen bubuk daia putih 800g",
+      "harga encer": "19.000"
+    },
+    {
+      "nama produk": "deterjen bubuk daia floral blossom 800g",
+      "harga encer": "19.000"
+    },
+    {
+      "nama produk": "deterjen bubuk attack jaz1 800g",
+      "harga encer": "22.000"
+    },
+    {
+      "nama produk": "deterjen bubuk kuat harimau 800g",
+      "harga encer": "20.000"
+    },
+    {
+      "nama produk": "sabun cream ekonomi 753g",
+      "harga encer": "12.000"
+    },
+    {
+      "nama produk": "sabun cream ekonomi lemon 380g",
+      "harga encer": "9.000"
+    },
+    {
+      "nama produk": "sabun cream wings biru 145g",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "deterjen cair so klin violet blossom 720ml",
+      "harga encer": "21.000"
+    },
+    {
+      "nama produk": "deterjen cair so klin softergen 720ml",
+      "harga encer": "21.000"
+    },
+    {
+      "nama produk": "deterjen cair molto pure 650ml",
+      "harga encer": "29.000"
+    },
+    {
+      "nama produk": "deterjen cair molto pewangi 780ml",
+      "harga encer": "19.000"
+    },
+    {
+      "nama produk": "deterjen cair so klin flower fresh 720ml",
+      "harga encer": "21.000"
+    },
+    {
+      "nama produk": "deterjen cair molto flora bliss 780ml",
+      "harga encer": "18.000"
+    },
+    {
+      "nama produk": "deterjen cair vanish 60ml",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "deterjen cair downy putih 18ml",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen cair downy premium parfum 18ml",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "deterjen cair so klin 43ml",
+      "harga encer": "2.000"
+    },
+    {
+      "nama produk": "sabun cuci piring sunlight jeruk nipis 90ml",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "sabun cuci piring sunlight korean strawberry 8",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "sabun cuci piring sunlight jeruk nipis 210ml",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "sabun cuci piring sunlight jeruk nipis 420ml",
+      "harga encer": "11.000"
+    },
+    {
+      "nama produk": "sabun cuci piring sunlight jeruk nipis 635ml",
+      "harga encer": "13.000"
+    },
+    {
+      "nama produk": "sabun cuci piring liquish jeruk nipis 550ml",
+      "harga encer": "11.000"
+    },
+    {
+      "nama produk": "sabun cuci piring max bio jeruk nipis 780ml",
+      "harga encer": "14.000"
+    },
+    {
+      "nama produk": "larrist pembersih lantai apel hijau 800ml",
+      "harga encer": "11.000"
+    },
+    {
+      "nama produk": "sabun mandi harmony grape 70g",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "sabun mandi giv white 72g",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "sabun mandi lifebuoy 75g",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "sabun mandi lux 70g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "sabun mandi shinzui 80g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "sikat gigi formula extreme clean",
+      "harga encer": "15.000"
+    },
+    {
+      "nama produk": "sikat gigi formula diamond",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "sikat gigi formula junior",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "odol sikat gigi closeup multivvitamin 160g",
+      "harga encer": "19.000"
+    },
+    {
+      "nama produk": "odol sikat gigi sensitive 100g",
+      "harga encer": "37.000"
+    },
+    {
+      "nama produk": "odol sikat gigi sensodyne 100g",
+      "harga encer": "45.000"
+    },
+    {
+      "nama produk": "odol sikat gigi pepsodent 75g",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "odol sikat gigi pepsodent 120g",
+      "harga encer": "11.000"
+    },
+    {
+      "nama produk": "odol sikat gigi pepsodent 190g",
+      "harga encer": "11.000"
+    },
+    {
+      "nama produk": "kapas wajah modis 35g",
+      "harga encer": "7.000"
+    },
+    {
+      "nama produk": "tisu makan toply isi 50 lembar",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "tisu jolly isi 250 lembar",
+      "harga encer": "12.000"
+    },
+    {
+      "nama produk": "spons mandi besco",
+      "harga encer": "6.000"
+    },
+    {
+      "nama produk": "tisu saku larrist isi 10 lembar",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "kapur ajaib anti kecoa dan semut 3.5g",
+      "harga encer": "3.000"
+    },
+    {
+      "nama produk": "lampu cahaya kuning masko 5w",
+      "harga encer": "10.000"
+    },
+    {
+      "nama produk": "potong kuku honaga",
+      "harga encer": "15.000"
+    },
+    {
+      "nama produk": "swallow anti serangan",
+      "harga encer": "18.000"
+    },
+    {
+      "nama produk": "hit anti nyamuk kabel 5w",
+      "harga encer": "15.000"
+    },
+    {
+      "nama produk": "hit expert piramida",
+      "harga encer": "4.000"
+    },
+    {
+      "nama produk": "obat nyamuk bakar vape isi 5",
+      "harga encer": "5.000"
+    },
+    {
+      "nama produk": "obat nyamuk bakar jumbo 0.03 mc",
+      "harga encer": "6.000"
+    }
+  ],
+  "produk kesehatan": []
+}
